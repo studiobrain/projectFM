@@ -1,0 +1,203 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Created with TexturePacker http://texturepacker.com-->
+<!-- $TexturePacker:SmartUpdate:35451fc63e7ab3d7b2a9f04cdde01388$ -->
+<TextureAtlas imagePath="atlasAccessories.png">
+    <SubTexture name="base" x="146" y="1976" width="79" height="61"/>
+    <SubTexture name="beam" x="147" y="1375" width="70" height="600"/>
+    <SubTexture name="building" x="2" y="1375" width="144" height="600"/>
+    <SubTexture name="feeder" x="1992" y="104" width="51" height="469" frameX="0" frameY="0" frameWidth="51" frameHeight="471"/>
+    <SubTexture name="fill" x="1963" y="205" width="24" height="423" frameX="-1" frameY="-1" frameWidth="26" frameHeight="425"/>
+    <SubTexture name="musicOff" x="310" y="603" width="36" height="36"/>
+    <SubTexture name="musicOffOvr" x="273" y="603" width="36" height="36"/>
+    <SubTexture name="musicOn" x="236" y="603" width="36" height="36"/>
+    <SubTexture name="musicOnOvr" x="199" y="603" width="36" height="36"/>
+    <SubTexture name="scoreBG" x="218" y="1895" width="121" height="78"/>
+    <SubTexture name="skyDay" x="803" y="603" width="800" height="600"/>
+    <SubTexture name="skyMorning" x="2" y="774" width="800" height="600"/>
+    <SubTexture name="skyNight" x="803" y="2" width="800" height="600"/>
+    <SubTexture name="slingShot/01/00001" x="1834" y="1101" width="97" height="118" frameX="-66" frameY="-29" frameWidth="193" frameHeight="156"/>
+    <SubTexture name="slingShot/01/00002" x="472" y="1466" width="93" height="116" frameX="-44" frameY="-30" frameWidth="193" frameHeight="156"/>
+    <SubTexture name="slingShot/01/00003" x="218" y="1466" width="87" height="144" frameX="-32" frameY="-2" frameWidth="193" frameHeight="156"/>
+    <SubTexture name="slingShot/01/00004" x="871" y="1204" width="67" height="116" frameX="-64" frameY="-30" frameWidth="193" frameHeight="156"/>
+    <SubTexture name="slingShot/01/00005" x="583" y="1583" width="81" height="116" frameX="-65" frameY="-30" frameWidth="193" frameHeight="156"/>
+    <SubTexture name="slingShot/01/00006" x="803" y="1204" width="67" height="116" frameX="-66" frameY="-30" frameWidth="193" frameHeight="156"/>
+    <SubTexture name="slingShot/01/00007" x="426" y="640" width="63" height="120" frameX="-61" frameY="-26" frameWidth="193" frameHeight="156"/>
+    <SubTexture name="slingShot/01/00008" x="714" y="1817" width="73" height="116" frameX="-66" frameY="-30" frameWidth="193" frameHeight="156"/>
+    <SubTexture name="slingShot/01/00009" x="1071" y="1341" width="59" height="116" frameX="-66" frameY="-30" frameWidth="193" frameHeight="156"/>
+    <SubTexture name="slingShot/01/00010" x="1059" y="1700" width="59" height="116" frameX="-66" frameY="-30" frameWidth="193" frameHeight="156"/>
+    <SubTexture name="slingShot/02/00001" x="1833" y="1301" width="95" height="118" frameX="-68" frameY="-30" frameWidth="193" frameHeight="156"/>
+    <SubTexture name="slingShot/02/00002" x="1852" y="867" width="101" height="116" frameX="-41" frameY="-30" frameWidth="193" frameHeight="156"/>
+    <SubTexture name="slingShot/02/00003" x="306" y="1466" width="89" height="142" frameX="-37" frameY="-4" frameWidth="193" frameHeight="156"/>
+    <SubTexture name="slingShot/02/00004" x="813" y="1466" width="73" height="116" frameX="-62" frameY="-30" frameWidth="193" frameHeight="156"/>
+    <SubTexture name="slingShot/02/00005" x="665" y="1583" width="77" height="116" frameX="-68" frameY="-30" frameWidth="193" frameHeight="156"/>
+    <SubTexture name="slingShot/02/00006" x="788" y="1817" width="69" height="116" frameX="-67" frameY="-30" frameWidth="193" frameHeight="156"/>
+    <SubTexture name="slingShot/02/00007" x="993" y="1700" width="65" height="116" frameX="-66" frameY="-30" frameWidth="193" frameHeight="156"/>
+    <SubTexture name="slingShot/02/00008" x="638" y="1817" width="75" height="116" frameX="-68" frameY="-30" frameWidth="193" frameHeight="156"/>
+    <SubTexture name="slingShot/02/00009" x="939" y="1341" width="67" height="116" frameX="-68" frameY="-30" frameWidth="193" frameHeight="156"/>
+    <SubTexture name="slingShot/02/00010" x="957" y="1583" width="65" height="116" frameX="-67" frameY="-30" frameWidth="193" frameHeight="156"/>
+    <SubTexture name="slingShot/03/00001" x="588" y="640" width="97" height="118" frameX="-63" frameY="-29" frameWidth="193" frameHeight="156"/>
+    <SubTexture name="slingShot/03/00002" x="1862" y="631" width="99" height="118" frameX="-34" frameY="-28" frameWidth="193" frameHeight="156"/>
+    <SubTexture name="slingShot/03/00003" x="308" y="1609" width="89" height="140" frameX="-35" frameY="-5" frameWidth="193" frameHeight="156"/>
+    <SubTexture name="slingShot/03/00004" x="817" y="1583" width="71" height="116" frameX="-60" frameY="-29" frameWidth="193" frameHeight="156"/>
+    <SubTexture name="slingShot/03/00005" x="558" y="1817" width="79" height="116" frameX="-63" frameY="-29" frameWidth="193" frameHeight="156"/>
+    <SubTexture name="slingShot/03/00006" x="743" y="1583" width="73" height="116" frameX="-63" frameY="-29" frameWidth="193" frameHeight="156"/>
+    <SubTexture name="slingShot/03/00007" x="957" y="1466" width="65" height="116" frameX="-64" frameY="-29" frameWidth="193" frameHeight="156"/>
+    <SubTexture name="slingShot/03/00008" x="871" y="1341" width="67" height="116" frameX="-63" frameY="-29" frameWidth="193" frameHeight="156"/>
+    <SubTexture name="slingShot/03/00009" x="803" y="1341" width="67" height="116" frameX="-64" frameY="-29" frameWidth="193" frameHeight="156"/>
+    <SubTexture name="slingShot/03/00010" x="1007" y="1341" width="63" height="116" frameX="-64" frameY="-29" frameWidth="193" frameHeight="156"/>
+    <SubTexture name="slingShot/04/00001" x="1932" y="1155" width="97" height="114" frameX="-57" frameY="-33" frameWidth="181" frameHeight="156"/>
+    <SubTexture name="slingShot/04/00002" x="652" y="1934" width="93" height="112" frameX="-32" frameY="-34" frameWidth="181" frameHeight="156"/>
+    <SubTexture name="slingShot/04/00003" x="82" y="603" width="79" height="146" frameX="-45" frameY="0" frameWidth="181" frameHeight="156"/>
+    <SubTexture name="slingShot/04/00004" x="1222" y="1204" width="67" height="108" frameX="-58" frameY="-38" frameWidth="181" frameHeight="156"/>
+    <SubTexture name="slingShot/04/00005" x="1150" y="1466" width="75" height="108" frameX="-58" frameY="-38" frameWidth="181" frameHeight="156"/>
+    <SubTexture name="slingShot/04/00006" x="1131" y="1341" width="69" height="108" frameX="-56" frameY="-38" frameWidth="181" frameHeight="156"/>
+    <SubTexture name="slingShot/04/00007" x="300" y="640" width="61" height="122" frameX="-59" frameY="-24" frameWidth="181" frameHeight="156"/>
+    <SubTexture name="slingShot/04/00008" x="1154" y="1204" width="67" height="108" frameX="-58" frameY="-38" frameWidth="181" frameHeight="156"/>
+    <SubTexture name="slingShot/04/00009" x="1156" y="1575" width="71" height="108" frameX="-59" frameY="-38" frameWidth="181" frameHeight="156"/>
+    <SubTexture name="slingShot/04/00010" x="1122" y="1803" width="63" height="108" frameX="-59" frameY="-38" frameWidth="181" frameHeight="156"/>
+    <SubTexture name="slingShot/05/0001" x="396" y="1466" width="75" height="136" frameX="-59" frameY="-14" frameWidth="193" frameHeight="156"/>
+    <SubTexture name="slingShot/05/0002" x="162" y="640" width="75" height="122" frameX="-59" frameY="-27" frameWidth="193" frameHeight="156"/>
+    <SubTexture name="slingShot/05/0003" x="308" y="1750" width="77" height="134" frameX="-58" frameY="-15" frameWidth="193" frameHeight="156"/>
+    <SubTexture name="slingShot/05/0004" x="824" y="1934" width="75" height="112" frameX="-59" frameY="-31" frameWidth="193" frameHeight="156"/>
+    <SubTexture name="slingShot/05/0005" x="1048" y="1934" width="73" height="112" frameX="-60" frameY="-31" frameWidth="193" frameHeight="156"/>
+    <SubTexture name="slingShot/05/0006" x="386" y="1750" width="71" height="118" frameX="-61" frameY="-25" frameWidth="193" frameHeight="156"/>
+    <SubTexture name="slingShot/05/0007" x="974" y="1934" width="73" height="112" frameX="-59" frameY="-31" frameWidth="193" frameHeight="156"/>
+    <SubTexture name="slingShot/05/0008" x="746" y="1934" width="77" height="112" frameX="-58" frameY="-31" frameWidth="193" frameHeight="156"/>
+    <SubTexture name="slingShot/05/0009" x="900" y="1934" width="73" height="112" frameX="-60" frameY="-31" frameWidth="193" frameHeight="156"/>
+    <SubTexture name="slingShot/05/0010" x="900" y="1934" width="73" height="112" frameX="-60" frameY="-31" frameWidth="193" frameHeight="156"/>
+    <SubTexture name="slingShot/06/00001" x="1929" y="1351" width="95" height="114" frameX="-27" frameY="-33" frameWidth="181" frameHeight="156"/>
+    <SubTexture name="slingShot/06/00002" x="558" y="1934" width="93" height="112" frameX="-54" frameY="-34" frameWidth="181" frameHeight="156"/>
+    <SubTexture name="slingShot/06/00003" x="2" y="603" width="79" height="146" frameX="-56" frameY="0" frameWidth="181" frameHeight="156"/>
+    <SubTexture name="slingShot/06/00004" x="1269" y="1341" width="67" height="108" frameX="-55" frameY="-38" frameWidth="181" frameHeight="156"/>
+    <SubTexture name="slingShot/06/00005" x="482" y="1837" width="75" height="108" frameX="-47" frameY="-38" frameWidth="181" frameHeight="156"/>
+    <SubTexture name="slingShot/06/00006" x="1226" y="1466" width="69" height="108" frameX="-55" frameY="-38" frameWidth="181" frameHeight="156"/>
+    <SubTexture name="slingShot/06/00007" x="238" y="640" width="61" height="122" frameX="-61" frameY="-24" frameWidth="181" frameHeight="156"/>
+    <SubTexture name="slingShot/06/00008" x="1201" y="1341" width="67" height="108" frameX="-55" frameY="-38" frameWidth="181" frameHeight="156"/>
+    <SubTexture name="slingShot/06/00009" x="1119" y="1694" width="71" height="108" frameX="-51" frameY="-38" frameWidth="181" frameHeight="156"/>
+    <SubTexture name="slingShot/06/00010" x="1290" y="1204" width="63" height="108" frameX="-59" frameY="-38" frameWidth="181" frameHeight="156"/>
+    <SubTexture name="slingShot/07/00001" x="490" y="640" width="97" height="118" frameX="-32" frameY="-29" frameWidth="193" frameHeight="156"/>
+    <SubTexture name="slingShot/07/00002" x="1851" y="984" width="99" height="116" frameX="-59" frameY="-29" frameWidth="193" frameHeight="156"/>
+    <SubTexture name="slingShot/07/00003" x="218" y="1754" width="89" height="140" frameX="-68" frameY="-5" frameWidth="193" frameHeight="156"/>
+    <SubTexture name="slingShot/07/00004" x="785" y="1700" width="71" height="116" frameX="-61" frameY="-29" frameWidth="193" frameHeight="156"/>
+    <SubTexture name="slingShot/07/00005" x="657" y="1466" width="79" height="116" frameX="-50" frameY="-29" frameWidth="193" frameHeight="156"/>
+    <SubTexture name="slingShot/07/00006" x="711" y="1700" width="73" height="116" frameX="-56" frameY="-29" frameWidth="193" frameHeight="156"/>
+    <SubTexture name="slingShot/07/00007" x="1005" y="1204" width="65" height="116" frameX="-64" frameY="-29" frameWidth="193" frameHeight="156"/>
+    <SubTexture name="slingShot/07/00008" x="926" y="1817" width="67" height="116" frameX="-62" frameY="-29" frameWidth="193" frameHeight="156"/>
+    <SubTexture name="slingShot/07/00009" x="925" y="1700" width="67" height="116" frameX="-62" frameY="-29" frameWidth="193" frameHeight="156"/>
+    <SubTexture name="slingShot/07/00010" x="1058" y="1817" width="63" height="116" frameX="-66" frameY="-29" frameWidth="193" frameHeight="156"/>
+    <SubTexture name="slingShot/08/00001" x="1951" y="1036" width="95" height="118" frameX="-30" frameY="-30" frameWidth="193" frameHeight="156"/>
+    <SubTexture name="slingShot/08/00002" x="1856" y="750" width="101" height="116" frameX="-50" frameY="-30" frameWidth="193" frameHeight="156"/>
+    <SubTexture name="slingShot/08/00003" x="218" y="1611" width="89" height="142" frameX="-67" frameY="-4" frameWidth="193" frameHeight="156"/>
+    <SubTexture name="slingShot/08/00004" x="1759" y="1224" width="73" height="116" frameX="-57" frameY="-30" frameWidth="193" frameHeight="156"/>
+    <SubTexture name="slingShot/08/00005" x="633" y="1700" width="77" height="116" frameX="-48" frameY="-30" frameWidth="193" frameHeight="156"/>
+    <SubTexture name="slingShot/08/00006" x="887" y="1466" width="69" height="116" frameX="-56" frameY="-30" frameWidth="193" frameHeight="156"/>
+    <SubTexture name="slingShot/08/00007" x="939" y="1204" width="65" height="116" frameX="-62" frameY="-30" frameWidth="193" frameHeight="156"/>
+    <SubTexture name="slingShot/08/00008" x="737" y="1466" width="75" height="116" frameX="-50" frameY="-30" frameWidth="193" frameHeight="156"/>
+    <SubTexture name="slingShot/08/00009" x="858" y="1817" width="67" height="116" frameX="-58" frameY="-30" frameWidth="193" frameHeight="156"/>
+    <SubTexture name="slingShot/08/00010" x="994" y="1817" width="63" height="116" frameX="-62" frameY="-30" frameWidth="193" frameHeight="156"/>
+    <SubTexture name="slingShot/09/00001" x="1865" y="512" width="97" height="118" frameX="-30" frameY="-29" frameWidth="193" frameHeight="156"/>
+    <SubTexture name="slingShot/09/00002" x="398" y="1603" width="93" height="116" frameX="-56" frameY="-30" frameWidth="193" frameHeight="156"/>
+    <SubTexture name="slingShot/09/00003" x="1958" y="774" width="87" height="144" frameX="-73" frameY="-2" frameWidth="193" frameHeight="156"/>
+    <SubTexture name="slingShot/09/00004" x="889" y="1583" width="67" height="116" frameX="-62" frameY="-30" frameWidth="193" frameHeight="156"/>
+    <SubTexture name="slingShot/09/00005" x="551" y="1700" width="81" height="116" frameX="-46" frameY="-30" frameWidth="193" frameHeight="156"/>
+    <SubTexture name="slingShot/09/00006" x="857" y="1700" width="67" height="116" frameX="-60" frameY="-30" frameWidth="193" frameHeight="156"/>
+    <SubTexture name="slingShot/09/00007" x="362" y="640" width="63" height="120" frameX="-69" frameY="-26" frameWidth="193" frameHeight="156"/>
+    <SubTexture name="slingShot/09/00008" x="1759" y="1107" width="73" height="116" frameX="-54" frameY="-30" frameWidth="193" frameHeight="156"/>
+    <SubTexture name="slingShot/09/00009" x="1023" y="1583" width="59" height="116" frameX="-68" frameY="-30" frameWidth="193" frameHeight="156"/>
+    <SubTexture name="slingShot/09/00010" x="1023" y="1466" width="59" height="116" frameX="-68" frameY="-30" frameWidth="193" frameHeight="156"/>
+    <SubTexture name="slingShot/cocked/0001" x="458" y="1720" width="92" height="116" frameX="-44" frameY="-2" frameWidth="150" frameHeight="120"/>
+    <SubTexture name="slingShot/cocked/0002" x="566" y="1466" width="90" height="116" frameX="-46" frameY="-2" frameWidth="150" frameHeight="120"/>
+    <SubTexture name="slingShot/cocked/0003" x="1071" y="1204" width="82" height="114" frameX="-42" frameY="-4" frameWidth="150" frameHeight="120"/>
+    <SubTexture name="slingShot/cocked/0004" x="1083" y="1466" width="66" height="114" frameX="-40" frameY="-4" frameWidth="150" frameHeight="120"/>
+    <SubTexture name="slingShot/cocked/0005" x="1083" y="1581" width="72" height="112" frameX="-37" frameY="-6" frameWidth="150" frameHeight="120"/>
+    <SubTexture name="slingShot/cocked/0006" x="686" y="603" width="66" height="114" frameX="-40" frameY="-4" frameWidth="150" frameHeight="120"/>
+    <SubTexture name="slingShot/cocked/0007" x="1962" y="659" width="84" height="114" frameX="-23" frameY="-4" frameWidth="150" frameHeight="120"/>
+    <SubTexture name="slingShot/cocked/0008" x="492" y="1583" width="90" height="116" frameX="-12" frameY="-2" frameWidth="150" frameHeight="120"/>
+    <SubTexture name="slingShot/cocked/0009" x="1954" y="919" width="92" height="116" frameX="-13" frameY="-2" frameWidth="150" frameHeight="120"/>
+    <SubTexture name="slingShot/set/0001" x="1759" y="1068" width="74" height="38" frameX="-36" frameY="-22" frameWidth="150" frameHeight="120"/>
+    <SubTexture name="slingShot/set/0002" x="686" y="718" width="74" height="44" frameX="-36" frameY="-22" frameWidth="150" frameHeight="120"/>
+    <SubTexture name="slingShot/set/0003" x="552" y="1375" width="72" height="50" frameX="-37" frameY="-21" frameWidth="150" frameHeight="120"/>
+    <SubTexture name="slingShot/set/0004" x="479" y="1375" width="72" height="56" frameX="-36" frameY="-21" frameWidth="150" frameHeight="120"/>
+    <SubTexture name="slingShot/set/0005" x="73" y="1976" width="72" height="64" frameX="-36" frameY="-21" frameWidth="150" frameHeight="120"/>
+    <SubTexture name="slingShot/set/0006" x="2" y="1976" width="70" height="68" frameX="-37" frameY="-22" frameWidth="150" frameHeight="120"/>
+    <SubTexture name="slingShot/set/0007" x="396" y="1968" width="72" height="76" frameX="-36" frameY="-21" frameWidth="150" frameHeight="120"/>
+    <SubTexture name="slingShot/set/0008" x="469" y="1946" width="70" height="76" frameX="-37" frameY="-22" frameWidth="150" frameHeight="120"/>
+    <SubTexture name="slingShot/topSling/0001" x="1930" y="1270" width="96" height="80" frameX="-45" frameY="-13" frameWidth="150" frameHeight="120"/>
+    <SubTexture name="slingShot/topSling/0002" x="313" y="1375" width="94" height="82" frameX="-46" frameY="-9" frameWidth="150" frameHeight="120"/>
+    <SubTexture name="slingShot/topSling/0003" x="311" y="1974" width="84" height="72" frameX="-41" frameY="-25" frameWidth="150" frameHeight="120"/>
+    <SubTexture name="slingShot/topSling/0004" x="340" y="1885" width="70" height="82" frameX="-40" frameY="-14" frameWidth="150" frameHeight="120"/>
+    <SubTexture name="slingShot/topSling/0005" x="411" y="1869" width="70" height="76" frameX="-38" frameY="-20" frameWidth="150" frameHeight="120"/>
+    <SubTexture name="slingShot/topSling/0006" x="408" y="1375" width="70" height="82" frameX="-35" frameY="-15" frameWidth="150" frameHeight="120"/>
+    <SubTexture name="slingShot/topSling/0007" x="226" y="1974" width="84" height="72" frameX="-22" frameY="-24" frameWidth="150" frameHeight="120"/>
+    <SubTexture name="slingShot/topSling/0008" x="218" y="1375" width="94" height="82" frameX="-8" frameY="-10" frameWidth="150" frameHeight="120"/>
+    <SubTexture name="slingShot/topSling/0009" x="1833" y="1220" width="96" height="80" frameX="-9" frameY="-13" frameWidth="150" frameHeight="120"/>
+    <SubTexture name="soundOff" x="162" y="603" width="36" height="36"/>
+    <SubTexture name="soundOffOvr" x="753" y="603" width="36" height="36"/>
+    <SubTexture name="soundOn" x="1988" y="611" width="36" height="36"/>
+    <SubTexture name="soundOnOvr" x="1988" y="574" width="36" height="36"/>
+    <SubTexture name="spill" x="1962" y="648" width="60" height="9" frameX="0" frameY="-1" frameWidth="60" frameHeight="11"/>
+    <SubTexture name="star/01" x="1834" y="972" width="16" height="16"/>
+    <SubTexture name="star/02" x="2025" y="642" width="16" height="16"/>
+    <SubTexture name="star/03" x="2025" y="625" width="16" height="16"/>
+    <SubTexture name="star/04" x="2025" y="608" width="16" height="16"/>
+    <SubTexture name="star/05" x="2025" y="591" width="16" height="16"/>
+    <SubTexture name="star/06" x="32" y="750" width="14" height="16" frameX="-1" frameY="0" frameWidth="16" frameHeight="16"/>
+    <SubTexture name="star/07" x="17" y="750" width="14" height="16" frameX="-1" frameY="0" frameWidth="16" frameHeight="16"/>
+    <SubTexture name="star/08" x="1839" y="921" width="12" height="16" frameX="-2" frameY="0" frameWidth="16" frameHeight="16"/>
+    <SubTexture name="star/09" x="102" y="750" width="10" height="16" frameX="-3" frameY="0" frameWidth="16" frameHeight="16"/>
+    <SubTexture name="star/10" x="91" y="750" width="10" height="16" frameX="-3" frameY="0" frameWidth="16" frameHeight="16"/>
+    <SubTexture name="star/11" x="140" y="750" width="8" height="16" frameX="-4" frameY="0" frameWidth="16" frameHeight="16"/>
+    <SubTexture name="star/12" x="131" y="750" width="8" height="16" frameX="-4" frameY="0" frameWidth="16" frameHeight="16"/>
+    <SubTexture name="star/13" x="122" y="750" width="8" height="16" frameX="-4" frameY="0" frameWidth="16" frameHeight="16"/>
+    <SubTexture name="star/14" x="113" y="750" width="8" height="16" frameX="-4" frameY="0" frameWidth="16" frameHeight="16"/>
+    <SubTexture name="star/15" x="1953" y="393" width="8" height="16" frameX="-4" frameY="0" frameWidth="16" frameHeight="16"/>
+    <SubTexture name="star/16" x="80" y="750" width="10" height="16" frameX="-3" frameY="0" frameWidth="16" frameHeight="16"/>
+    <SubTexture name="star/17" x="69" y="750" width="10" height="16" frameX="-3" frameY="0" frameWidth="16" frameHeight="16"/>
+    <SubTexture name="star/18" x="1839" y="904" width="12" height="16" frameX="-2" frameY="0" frameWidth="16" frameHeight="16"/>
+    <SubTexture name="star/19" x="2" y="750" width="14" height="16" frameX="-1" frameY="0" frameWidth="16" frameHeight="16"/>
+    <SubTexture name="star/20" x="1834" y="1057" width="14" height="16" frameX="-1" frameY="0" frameWidth="16" frameHeight="16"/>
+    <SubTexture name="star/21" x="2025" y="574" width="16" height="16"/>
+    <SubTexture name="star/22" x="1946" y="495" width="16" height="16"/>
+    <SubTexture name="star/23" x="1946" y="478" width="16" height="16"/>
+    <SubTexture name="star/24" x="1946" y="461" width="16" height="16"/>
+    <SubTexture name="starLight/01" x="1946" y="444" width="16" height="16"/>
+    <SubTexture name="starLight/02" x="1946" y="427" width="16" height="16"/>
+    <SubTexture name="starLight/03" x="1946" y="410" width="16" height="16"/>
+    <SubTexture name="starLight/04" x="2024" y="87" width="16" height="16"/>
+    <SubTexture name="starLight/05" x="2024" y="70" width="16" height="16"/>
+    <SubTexture name="starLight/06" x="1834" y="1040" width="14" height="16" frameX="-1" frameY="0" frameWidth="16" frameHeight="16"/>
+    <SubTexture name="starLight/07" x="1834" y="1023" width="14" height="16" frameX="-1" frameY="0" frameWidth="16" frameHeight="16"/>
+    <SubTexture name="starLight/08" x="1839" y="887" width="12" height="16" frameX="-2" frameY="0" frameWidth="16" frameHeight="16"/>
+    <SubTexture name="starLight/09" x="58" y="750" width="10" height="16" frameX="-3" frameY="0" frameWidth="16" frameHeight="16"/>
+    <SubTexture name="starLight/10" x="47" y="750" width="10" height="16" frameX="-3" frameY="0" frameWidth="16" frameHeight="16"/>
+    <SubTexture name="starLight/11" x="1953" y="376" width="8" height="16" frameX="-4" frameY="0" frameWidth="16" frameHeight="16"/>
+    <SubTexture name="starLight/12" x="1953" y="359" width="8" height="16" frameX="-4" frameY="0" frameWidth="16" frameHeight="16"/>
+    <SubTexture name="starLight/13" x="1953" y="342" width="8" height="16" frameX="-4" frameY="0" frameWidth="16" frameHeight="16"/>
+    <SubTexture name="starLight/14" x="1953" y="325" width="8" height="16" frameX="-4" frameY="0" frameWidth="16" frameHeight="16"/>
+    <SubTexture name="starLight/15" x="1953" y="308" width="8" height="16" frameX="-4" frameY="0" frameWidth="16" frameHeight="16"/>
+    <SubTexture name="starLight/16" x="1839" y="955" width="10" height="16" frameX="-3" frameY="0" frameWidth="16" frameHeight="16"/>
+    <SubTexture name="starLight/17" x="1839" y="938" width="10" height="16" frameX="-3" frameY="0" frameWidth="16" frameHeight="16"/>
+    <SubTexture name="starLight/18" x="1839" y="870" width="12" height="16" frameX="-2" frameY="0" frameWidth="16" frameHeight="16"/>
+    <SubTexture name="starLight/19" x="1834" y="1006" width="14" height="16" frameX="-1" frameY="0" frameWidth="16" frameHeight="16"/>
+    <SubTexture name="starLight/20" x="1834" y="989" width="14" height="16" frameX="-1" frameY="0" frameWidth="16" frameHeight="16"/>
+    <SubTexture name="starLight/21" x="2024" y="53" width="16" height="16"/>
+    <SubTexture name="starLight/22" x="2024" y="36" width="16" height="16"/>
+    <SubTexture name="starLight/23" x="2024" y="19" width="16" height="16"/>
+    <SubTexture name="starLight/24" x="2024" y="2" width="16" height="16"/>
+    <SubTexture name="summary" x="2" y="2" width="800" height="600"/>
+    <SubTexture name="text/text100" x="1604" y="1165" width="154" height="81"/>
+    <SubTexture name="text/textClear" x="1604" y="870" width="234" height="97"/>
+    <SubTexture name="text/textGameOver" x="1604" y="2" width="419" height="98"/>
+    <SubTexture name="text/textGo" x="1604" y="1068" width="154" height="96"/>
+    <SubTexture name="text/textLevel1" x="1604" y="781" width="247" height="88"/>
+    <SubTexture name="text/textLevel2" x="1604" y="507" width="260" height="90"/>
+    <SubTexture name="text/textLevel3" x="1604" y="598" width="257" height="89"/>
+    <SubTexture name="text/textMinute" x="1604" y="688" width="251" height="92"/>
+    <SubTexture name="text/textNice" x="1604" y="308" width="348" height="94"/>
+    <SubTexture name="text/textReady" x="1604" y="968" width="229" height="99"/>
+    <SubTexture name="text/textStyle" x="1604" y="205" width="358" height="102"/>
+    <SubTexture name="text/textSuper" x="1604" y="101" width="387" height="103"/>
+    <SubTexture name="text/textTimesUp" x="1604" y="403" width="341" height="103"/>
+    <SubTexture name="top" x="1963" y="629" width="24" height="9" frameX="-1" frameY="0" frameWidth="26" frameHeight="9"/>
+    <SubTexture name="wire" x="2" y="767" width="750" height="3"/>
+</TextureAtlas>
